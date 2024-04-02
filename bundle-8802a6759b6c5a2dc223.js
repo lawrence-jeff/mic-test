@@ -1,4 +1,4 @@
-*! For license information please see bundle-8802a6759b6c5a2dc223.js.LICENSE.txt */
+/*! For license information please see bundle-8802a6759b6c5a2dc223.js.LICENSE.txt */
 (() => {
   var e = {
       705: (e) => {
